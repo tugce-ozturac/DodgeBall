@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23944e035306f2544a29149b27339c4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spherePrefab: {fileID: 1733662436706150, guid: c8ad6dc2bd62744ab9f4c2430b97f35f, type: 3}
+  - cubePrefab: {fileID: 1489190192402526, guid: c66a055afc8284d039725a9e0d0db3d1, type: 3}
+  - green: {fileID: 2100000, guid: ba3a63e8d6b114f02b957e03c09403ba, type: 2}
+  - red: {fileID: 2100000, guid: 1610655a116ac473ea7205b56afbcb80, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
